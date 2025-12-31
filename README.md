@@ -317,8 +317,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **Author**: Luis Marchio  
-**Institution**: [Your University]  
-**Purpose**: Academic Research - Master's Degree  
+**Institution**: 
+**Purpose**: Academic Research 
 **Year**: 2025-2026
 
 **Questions?** Open an issue or reach out via [GitHub Discussions](https://github.com/LuisMarchio03/order-pipeline-diy/discussions)
